@@ -1,7 +1,7 @@
-<gm:page title="Telltale Countdowner" authenticate="false">
+<gm:page title="Telltale Countdowner" authenticate="false" gadget="true" >
 
   <div class="gm-app-header">
-    <h1>Telltale Countdowner</h1>
+    Telltale Countdowner
   </div>
 
 </gm:page>
